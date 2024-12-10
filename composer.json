@@ -1,0 +1,21 @@
+{
+    "name": "getcountrycurrency/country-currency-api",
+    "description": "A simple PHP library for fetching country currency details.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Chrysanthus Obinna Chiagwah",
+        "email": "chrysanthusobinna@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "YourNamespace\\": "src/"
+      }
+    },
+    "require": {
+      "php": ">=7.4"
+    }
+  }
+  
